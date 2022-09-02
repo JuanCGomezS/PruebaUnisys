@@ -1,0 +1,15 @@
+/home/juancarlos/Documents/Projects/projet c/prueba/bin/Debug/net6.0/prueba
+/home/juancarlos/Documents/Projects/projet c/prueba/bin/Debug/net6.0/prueba.deps.json
+/home/juancarlos/Documents/Projects/projet c/prueba/bin/Debug/net6.0/prueba.runtimeconfig.json
+/home/juancarlos/Documents/Projects/projet c/prueba/bin/Debug/net6.0/prueba.dll
+/home/juancarlos/Documents/Projects/projet c/prueba/bin/Debug/net6.0/prueba.pdb
+/home/juancarlos/Documents/Projects/projet c/prueba/obj/Debug/net6.0/prueba.csproj.AssemblyReference.cache
+/home/juancarlos/Documents/Projects/projet c/prueba/obj/Debug/net6.0/prueba.GeneratedMSBuildEditorConfig.editorconfig
+/home/juancarlos/Documents/Projects/projet c/prueba/obj/Debug/net6.0/prueba.AssemblyInfoInputs.cache
+/home/juancarlos/Documents/Projects/projet c/prueba/obj/Debug/net6.0/prueba.AssemblyInfo.cs
+/home/juancarlos/Documents/Projects/projet c/prueba/obj/Debug/net6.0/prueba.csproj.CoreCompileInputs.cache
+/home/juancarlos/Documents/Projects/projet c/prueba/obj/Debug/net6.0/prueba.dll
+/home/juancarlos/Documents/Projects/projet c/prueba/obj/Debug/net6.0/refint/prueba.dll
+/home/juancarlos/Documents/Projects/projet c/prueba/obj/Debug/net6.0/prueba.pdb
+/home/juancarlos/Documents/Projects/projet c/prueba/obj/Debug/net6.0/prueba.genruntimeconfig.cache
+/home/juancarlos/Documents/Projects/projet c/prueba/obj/Debug/net6.0/ref/prueba.dll

@@ -1,0 +1,37 @@
+1. ¿Qué sabe de código limpio?
+    Es aquella practica de programación donde el desarrollador o desarrolladores alpican ciertas caracteristicas para hacer un 
+    código con el mejor rendimiento posible, lo más explicito posible, unos ejemplos de esas practicas pueden ser:
+
+    - Al momento de crear Funciones, variables, etc. Hacerlo con nombres entendibles, pronunciables, que se puedan buscar y 
+        con sentido (Que con leer el nombre de la función se interprete facilmente su uso).
+    - Uso de funciones para una sola tarea.
+    - Evitar el codigo espagueti y redundante.
+    - El codigo debe tener una estructura clara y lógica.
+    Como esas hay otras más.
+
+2. ¿Qué entiende por Arquitectura SOA?
+    Por lo que tengo entendido y la experiencia que llevo, la Arquitectura SOA que esta orientada a la optimización de los servicios
+    para evitar codigo espagueti, para eso se hace uso de los servicios WEB como lo pueden ser REST y SOAP.
+
+3. ¿Qué es un servicio web?
+    Como mensioné anteriormente hay dos tipos de servicios WEB, los REST y los SOAP. basicamente es una forma de comunicarse entre 
+    maquinas a través de una red, cada una tiene estandares definidos para pasar información entre sistemas.
+
+4. ¿Qué es un XML?
+    Se podria decir que XML es un lenguaje o formato similar a lo que seria HTML o HTMLX, el XML se puede utilizar para agregar 
+    cualquier tipo de datos, permitiendo estructurar esa información.
+
+5. ¿Qué es un XSD?
+    Este esquema se puede utilizar para validar los elementos del archivo, de tal forma en que la información ingresada vaya acorde 
+    a la que se necesita, basicamente un archivo XSD se utiliza para definir el conjunto de reglas a las que debe ajustarse un documento XML.
+
+6. Describa que es un WSDL y cuáles son sus partes
+    Es un tipo específico de documento XML que describe un servicio web
+    Las partes no recuerdo realmente cuales son.
+
+7. ¿Qué entiende por arquitectura REST?
+    Servicio Web que se usa para establecer una comunicación entre cliente y servidor, con el fin de obtener información específica en
+    formato JSON o XML.
+
+8. ¿Qué es un JSON?
+    Es el formato más usado para manipular datos de una manera sencilla, muy usado en el consumo de servicios para intercambiar información.
