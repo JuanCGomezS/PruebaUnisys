@@ -1,7 +1,5 @@
 # PruebaUnisys
-Prueba para el cargo de desarrollador .Net
 
-# 01 de Septiembre de 2022
 # Desarrollada para la empresa Unisys
 # Juan Carlos Gomez Sanchez - Desarrollador Web
 
